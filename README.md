@@ -30,4 +30,4 @@ I'm **Aritri Podder**, a passionate Software Engineer with expertise in AI/ML. I
 
 
 ![Netlify Deployments](https://img.shields.io/badge/-Netlify%20Deployed-00C7B7?style=flat-square&logo=netlify)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritripodder&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AritriPodde2210&show_icons=true)
