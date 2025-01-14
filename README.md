@@ -20,10 +20,9 @@ I'm **Aritri Podder**, a passionate Software Engineer with expertise in AI/ML. I
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat)
-
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
 
 ### GitHub Stats
