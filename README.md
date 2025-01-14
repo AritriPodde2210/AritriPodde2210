@@ -4,8 +4,8 @@
 I'm **Aritri Podder**, a passionate Software Engineer with expertise in AI/ML. I love building innovative solutions and working on projects that push the boundaries of technology. 
 
 - 🔭 Currently working on: AI-based Botnet Detection
-- 🌱 Learning: Springboot framwork,Deep learning, Web technologies
-- 💬 Ask me about: Databases, Java, Python,Machine Learning, Engineering
+- 🌱 Learning: Data analysis,Business Intelligence Tools , ML/DL TECHNIQUES.
+- 💬 Ask me about: Databases, Java, Python,data analysis,Business Analysis, Engineering
 - 📫 How to reach me: reach.aritripodder@gmail.com | [LinkedIn](https://www.linkedin.com/in/aritri-podder-749887226/)
 
 ### Technologies & Tools
