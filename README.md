@@ -1,7 +1,7 @@
 # Aritri-Podder
 ## Welcome to My GitHub Profile! 👋
 
-I'm **Aritri Podder**, a aspiring Software Engineer with expertise in AI/ML. I love building innovative solutions and working on projects that push the boundaries of technology and i am looking forward to contribute in business as an analyst
+I'm **Aritri Podder**,  I love building innovative solutions and working on projects that push the boundaries of technology and i am looking forward to contribute in business as an analyst
 
 - 🔭 Currently working on: AI-based Botnet Detection
 - 🌱 Learning: Data analysis,Business Intelligence Tools , ML/DL TECHNIQUES.
