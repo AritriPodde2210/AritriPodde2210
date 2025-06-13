@@ -3,7 +3,7 @@
 
 I'm **Aritri Podder**,  I love building innovative solutions and working on projects that push the boundaries of technology and i am looking forward to contribute in business as an analyst
 
-- 🔭 Currently working on: AI-based Botnet Detection
+- 🔭 Currently working on: AI-based network anomaly Detection
 - 🌱 Learning: Data analysis,Business Intelligence Tools , ML/DL TECHNIQUES.
 - 💬 Ask me about: Databases, Java, Python,data analysis,Business Analysis, Engineering
 - 📫 How to reach me: reach.aritripodder@gmail.com | [LinkedIn](https://www.linkedin.com/in/aritri-podder-749887226/)
